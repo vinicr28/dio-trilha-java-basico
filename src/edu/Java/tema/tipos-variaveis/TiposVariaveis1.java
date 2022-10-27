@@ -1,7 +1,7 @@
 public class TiposVariaveis1 {
 
     public static void main(String[] args) {
-        int idade = 21;
+       /*  int idade = 21;
         double salarioMinimo = 2500; //não usa o . para milhares 
         double exemploFracao = 2.500; // significa que o valor é 2,50 e não 2.500,00
 
@@ -16,6 +16,8 @@ public class TiposVariaveis1 {
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numerocurto2 = (short) numeroNormal; // casting
+
+        final double VALOR_DE_PI = 3.14F;*/ //usamos o final para garantir que o valor da variavel não vai ser alterada
     }
 
 
